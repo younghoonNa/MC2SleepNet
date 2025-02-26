@@ -1,1 +1,1 @@
-State of the art 84.7% accuracy on SleepEDF-78 and 88.4% on SHHS Datasset
+State-of-the-art performance was achieved, with an accuracy of 84.7% on the SleepEDF-78 dataset and 88.4% on the SHHS dataset
